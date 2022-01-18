@@ -1,7 +1,7 @@
 '''
 Ovaj IS predstavlja jednu Apoteku, sastoji se od klase Lijek,Zaposleni,Kasa i Apoteka
 iscitava podatke iz dva json fajla koji predstavljaju spisak ljekova i spisak zaposlenih, svaka klasa posjeduje odredjene setere i getere i odredjene metode.
-
+iscitavaju se podaci i iz treceg json fajla koji predstavlja trenutno stanje ljekova u apoteci radi simulacije popisa
 '''
 
 from datetime import datetime
@@ -165,5 +165,5 @@ for lijek in spisak_ljekova_popis:
 
 apoteka_1=Apoteka("Montefarm","Bl. Sv. Petra Cetinjskog",stanje_ljekova,svi_zaposleni)
 print(apoteka_1)
-print("Neophodan budzet za plate na mjesecnom nivou iznosi: ",apoteka_1.plate())
+print("Neophodan budzet za plate na mjesecnom nivou iznosi: ",apoteka_1.plate(),"e")
 print("Nakon popisa utvrdjeno je da nedostaju ljekovi sa sledeceg spiska:",apoteka_1.popis_manjak(stanje_ljekova_popis))
