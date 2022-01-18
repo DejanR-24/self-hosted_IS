@@ -1,0 +1,47 @@
+[
+ {
+     "naziv":"Vitamin C",
+     "proizvodjac":"Montefarm",
+     "cijena":2.5,
+     "kolicina":25
+ }
+, {
+     "naziv":"Vitamin D",
+     "proizvodjac":"Montefarm",
+     "cijena":7.8,
+     "kolicina":25
+ }
+ ,
+  {
+
+     "naziv":"Vitamin B",
+     "proizvodjac":"Montefarm",
+     "cijena":3.5,
+     "kolicina":25
+ 
+ },
+  {
+     "naziv":"Hemomicin",
+     "proizvodjac":"Hemofarm",
+     "cijena":2.75,
+     "kolicina":50
+ },
+  {
+     "naziv":"Pancef",
+     "proizvodjac":"Hemofarm",
+     "cijena":3.5,
+     "kolicina":30
+ },
+  {
+     "naziv":"Renitidin",
+     "proizvodjac":"Hemofarm",
+     "cijena":1.8,
+     "kolicina":25
+ },
+  {
+     "naziv":"Cafetin",
+     "proizvodjac":"Montefarm",
+     "cijena":1.0,
+     "kolicina":75
+ }
+]

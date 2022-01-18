@@ -1,0 +1,39 @@
+[
+    {
+        "ime":"Jovan Vukovic",
+        "pozicija":"Farmaceut",
+        "datum_zaposlenja":[6,2008]
+    }
+   , {
+        "ime":"Tamara Pejakovic",
+        "pozicija":"Farmaceut",
+        "datum_zaposlenja":[6,2008]
+    }
+    ,
+     {
+        "ime":"Drazen Kovacevic",
+        "pozicija":"Menadzer",
+        "datum_zaposlenja":[8,2006]
+    
+    },
+     {
+        "ime":"Dejan Radovanovic",
+        "pozicija":"Direktor",
+        "datum_zaposlenja":[3,2002]
+    },
+     {
+        "ime":"Milos Orovic",
+        "pozicija":"Tehnicar",
+        "datum_zaposlenja":[6,2019]
+    },
+     {
+        "ime":"Nebojsa Maras",
+        "pozicija":"Pezent",
+        "datum_zaposlenja":[6,2018]
+    },
+     {
+        "ime":"Nadja Kovacevic",
+        "pozicija":"Farmaceut",
+        "datum_zaposlenja":[6,2006]
+    }
+   ]
